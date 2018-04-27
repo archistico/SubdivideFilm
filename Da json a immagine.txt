@@ -1,0 +1,14 @@
+Esempi ricerche
+https://www.themoviedb.org/documentation/api/discover
+
+Quando ho un'id cerco la scheda completa (id dopo /movie/)
+https://api.themoviedb.org/3/movie/550?api_key=...&language=it-IT
+
+Da json poi cerco immagini:
+https://image.tmdb.org/t/p/w500/
+
+"poster_path": immagine ma non copertina
+https://image.tmdb.org/t/p/w500/mMZRKb3NVo5ZeSPEIaNW9buLWQ0.jpg
+
+"backdrop_path" : retro della copertina
+https://image.tmdb.org/t/p/w500/n76isoucmTVu48znhSNtFmaM4QT.jpg
